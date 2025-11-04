@@ -1,33 +1,114 @@
+# MyTicket Events
+
 > **Note:** This is a fork of the original [MyTicket Events](https://github.com/kenzap/myticket-events-gutenberg-blocks) plugin by Kenzap. This fork is now maintained by **RunIT Solutions**.
+
+A beautiful and easy customizable set of Gutenberg blocks to list events, create calendars and generate QR-code PDF tickets. The plugin extends WooCommerce plugin functionality by creating additional fields under products section, provides seamless checkout experience and support of more than 100+ payment gateways.
 
 ## Repository
 
 **Source:** https://github.com/runitsolutions/myticket-events
 
----
+## Features
 
-This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
+- 📅 Event listing with keyword, category, price, location and date filtering
+- 🗓️ Event calendar with carousel
+- 🎫 Large call to action ticket add buttons
+- 🛒 Custom WooCommerce checkout page with QR-code PDF ticket download
+- 🎭 Extra WooCommerce product fields like date, venue, location to transform products into events
+- 📱 Secure MyTicket Scanner android application for QR-code ticket validation
+- ✉️ Customizable email and PDF templates
+- 🎪 Concert hall/stadium seat chart layout with reservations
+- 🔒 Security improvements and WordPress best practices
 
-Below you will find some information on how to run scripts.
+## Requirements
 
->You can find the most recent version of this guide [here](https://github.com/ahmadawais/create-guten-block).
+- WordPress 5.6 or higher
+- PHP 7.1 or higher
+- WooCommerce plugin (required)
 
-## 👉  `npm start`
-- Use to compile and run the block in development mode.
-- Watches for any changes and reports back any errors in your code.
+## Installation
 
-## 👉  `npm run build`
-- Use to build production code for your block inside `dist` folder.
-- Runs once and reports back the gzip file sizes of the produced code.
+### From WordPress Admin
 
-## 👉  `npm run eject`
-- Use to eject your plugin out of `create-guten-block`.
-- Provides all the configurations so you can customize the project as you want.
-- It's a one-way street, `eject` and you have to maintain everything yourself.
-- You don't normally have to `eject` a project because by ejecting you lose the connection with `create-guten-block` and from there onwards you have to update and maintain all the dependencies on your own.
+1. Log in and navigate to **Plugins → Add New**
+2. Type "MyTicket Events" into the Search and hit Enter
+3. Locate the MyTicket Events plugin in the list and click **Install Now**
+4. Once installed, click the **Activate** link
+5. Go to **Pages → Add New** → Find **MyTicket Listing** block
+6. Adjust **Container → Max width** setting if elements are not displayed properly
 
----
+### Manual Installation
 
-###### Feel free to tweet and say 👋 at me [@MrAhmadAwais](https://twitter.com/mrahmadawais/)
+1. Download the plugin from the [releases page](https://github.com/runitsolutions/myticket-events/releases)
+2. Unzip the package and upload to your `wp-content/plugins/` directory
+3. Log into WordPress and navigate to the **Plugins** screen
+4. Locate MyTicket Events in the list and click the **Activate** link
 
-[![npm](https://img.shields.io/npm/v/create-guten-block.svg?style=flat-square)](https://www.npmjs.com/package/create-guten-block) [![npm](https://img.shields.io/npm/dt/create-guten-block.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/create-guten-block)  [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/ahmadawais/create-guten-block) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/) [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/create-guten-block.svg?style=social&label=Stars)](https://github.com/ahmadawais/create-guten-block/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers)
+## Gutenberg Blocks
+
+The plugin includes the following Gutenberg blocks:
+
+- **MyTicket Listing 1** - Event listing with filters
+- **MyTicket Listing 2** - Event calendar carousel
+- **MyTicket Listing 3** - Call to action buttons
+- **MyTicket Listing 4** - Schedule listing
+- **MyTicket Listing 5** - Concert hall/stadium seat chart layout
+- **MyTicket Listing 6** - Additional listing options
+
+## Changelog
+
+### Version 2.0.0
+
+- ✨ Fork maintained by RunIT Solutions
+- 🔒 Fixed CVE-2025-27299 Path Traversal vulnerability
+- 🛠️ Removed CMB2 dependency - now uses native WordPress metaboxes
+- 🔐 Added nonce verification to all AJAX endpoints
+- 🛡️ Fixed directory traversal vulnerability in template loading
+- ✅ Added proper input validation and sanitization for file paths
+- 🧹 Fixed XSS vulnerabilities in user input handling
+- 🍪 Improved cookie handling with proper sanitization
+- ✅ Added whitelist validation for template type values
+- 📝 Updated author to RunIT Solutions
+
+See [readme.txt](readme.txt) for complete changelog.
+
+## Security
+
+This version includes multiple security improvements:
+
+- Path traversal vulnerability fixes
+- Nonce verification for all AJAX endpoints
+- Input validation and sanitization
+- XSS prevention
+- Secure file path handling following WordPress best practices
+
+## Development
+
+### Building the Plugin
+
+```bash
+npm install
+npm run build
+```
+
+### Development Mode
+
+```bash
+npm start
+```
+
+## Support
+
+For support, please visit:
+- **Repository Issues:** https://github.com/runitsolutions/myticket-events/issues
+- **RunIT Solutions:** https://runitcr.com/
+
+## License
+
+This plugin is licensed under GPL2+.
+
+## Credits
+
+- **Original Plugin:** Kenzap
+- **Current Maintainer:** RunIT Solutions
+- **Version:** 2.0.0
