@@ -1,0 +1,1096 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MyTicket Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 02:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: inc/class-woocommerce.php:232
+msgid "*Update cart after changes"
+msgstr ""
+
+#: inc/class-myticket-events.php:463
+msgid "1 Day"
+msgstr ""
+
+#: inc/class-myticket-events.php:472
+msgid "10 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:464
+msgid "2 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:465
+msgid "3 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:466
+msgid "4 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:467
+msgid "5 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:468
+msgid "6 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:469
+msgid "7 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:470
+msgid "8 Days"
+msgstr ""
+
+#: inc/class-myticket-events.php:471
+msgid "9 Days"
+msgstr ""
+
+#: inc/class-customizer.php:204
+msgid ""
+"Add additional cart checkout input fields. Fields can be passed to PDF "
+"tickets or email notifications."
+msgstr ""
+
+#: inc/class-customizer.php:111
+msgid "Add general ticket download button with MyTicket checkout style."
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:316 
+#: inc/class-customizer-repeater-control.php:349
+msgid "Add Icon"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:38
+msgid "Add new field"
+msgstr ""
+
+#: inc/class-woocommerce.php:854
+msgid "address"
+msgstr ""
+
+#: templates/email-individual/index.php:21
+msgid "Address:"
+msgstr ""
+
+#: src/listing-01/block.php:238 src/listing-01/block.php:265
+msgid "All"
+msgstr ""
+
+#: src/listing-04/block.php:91 src/listing-01/block.php:96
+msgid "All Dates"
+msgstr ""
+
+#: src/listing-04/block.php:49 src/listing-04/block.php:71 
+#: src/listing-01/block.php:55 src/listing-01/block.php:76
+msgid "All Locations"
+msgstr ""
+
+#: inc/class-plugins.php:123
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-customizer.php:151
+msgid "Allow users to pick specific attendance day in cart calendar."
+msgstr ""
+
+#: inc/class-myticket-events.php:456
+msgid ""
+"Allow users to pick specific attendance day in cart calendar. Go to "
+"Customizer > MyTicket > Checkout > Enable Calendar"
+msgstr ""
+
+#: inc/class-customizer.php:174
+msgid "Allowed app IDs"
+msgstr ""
+
+#: src/listing-01/block.php:184
+msgid "Alphabetically"
+msgstr ""
+
+#: inc/class-customizer.php:58
+msgid ""
+"Attach general ticket in PDF format to WooCommerce emails. Go to WooCommerce "
+"> Settings > Emails to adjust email trigger settings. To override this "
+"ticket template go to your theme folder and find /myticket-events/general-"
+"ticket/ folder."
+msgstr ""
+
+#: inc/class-customizer.php:97
+msgid ""
+"Attach tickets to emails after payment received. (Works only with "
+"\"Participant Data\" feature enabled under MyTicket > Ticketing section of "
+"customizer. Works in parallel with WooCommerce emails. To override this "
+"ticket template go to your theme folder and find /myticket-events/individual-"
+"ticket/ folder.)"
+msgstr ""
+
+#: inc/class-customizer.php:84
+msgid ""
+"Attach tickets to emails when order status changes to Completed. (Works only "
+"with \"Participant Data\" feature enabled under MyTicket > Ticketing section "
+"of customizer. Works in parallel with WooCommerce emails. To override this "
+"ticket template go to your theme folder and find /myticket-events/individual-"
+"ticket/ folder.)"
+msgstr ""
+
+#: inc/class-customizer.php:71
+msgid ""
+"Attach tickets to new orders. (Works only with \"Participant Data\" feature "
+"enabled under MyTicket > Ticketing section of customizer. Works in parallel "
+"with WooCommerce emails. To override this ticket template go to your theme "
+"folder and find /myticket-events/individual-ticket/ folder.)"
+msgstr ""
+
+#: src/listing-05/block.php:193
+msgid "Available"
+msgstr ""
+
+#: src/listing-05/block.php:70
+msgid "back"
+msgstr ""
+
+#: inc/class-plugins.php:113
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:103
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:108
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/ticket-general/index.php:67
+#, php-format
+msgid "Billing Address: %s"
+msgstr ""
+
+#: src/listing-05/block.php:42 src/listing-02/block.php:17 
+#: src/listing-03/block.php:22 src/listing-04/block.php:17 
+#: src/listing-01/block.php:27
+msgid "block preview"
+msgstr ""
+
+#: src/listing-02/block.php:31 src/listing-01/block-ajax.php:54
+msgid "Book Ticket"
+msgstr ""
+
+#: inc/class-woocommerce.php:507
+msgid "button below"
+msgstr ""
+
+#: inc/class-woocommerce.php:857
+msgid "calendar"
+msgstr ""
+
+#: src/listing-05/block.php:57
+msgid "Cancel selections?"
+msgstr ""
+
+#: inc/class-woocommerce.php:861
+msgid "cf1"
+msgstr ""
+
+#: inc/class-woocommerce.php:862
+msgid "cf2"
+msgstr ""
+
+#: inc/class-woocommerce.php:863
+msgid "cf3"
+msgstr ""
+
+#: inc/class-woocommerce.php:864
+msgid "cf4"
+msgstr ""
+
+#: inc/class-woocommerce.php:865
+msgid "cf5"
+msgstr ""
+
+#: inc/class-customizer.php:44
+msgid "Checkout"
+msgstr ""
+
+#: src/listing-01/block.php:183
+msgid "Closest"
+msgstr ""
+
+#: inc/class-customizer.php:121
+msgid "Combine tickets"
+msgstr ""
+
+#: src/listing-05/block.php:69
+msgid "Confirm"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create event listings, organize events, link events with WooCommerce orders, "
+"print PDF invoices."
+msgstr ""
+
+#: inc/class-myticket-events.php:498
+msgid "Custom Link"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:43
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/class-woocommerce.php:238
+msgid "Date"
+msgstr ""
+
+#: inc/class-woocommerce.php:850
+msgid "date"
+msgstr ""
+
+#: templates/ticket-general/index.php:118 
+#: templates/ticket-general/index.php:243
+msgid "Date:"
+msgstr ""
+
+#: inc/class-woocommerce.php:852
+msgid "days"
+msgstr ""
+
+#: src/listing-01/block.php:182
+msgid "Default"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:176
+msgid "Delete field"
+msgstr ""
+
+#: inc/class-woocommerce.php:507
+msgid "Download"
+msgstr ""
+
+#: inc/class-woocommerce.php:504
+msgid "Download image"
+msgstr ""
+
+#: inc/class-woocommerce.php:527
+msgid "Download ticket"
+msgstr ""
+
+#: inc/class-woocommerce.php:509
+msgid "Download Your Ticket"
+msgstr ""
+
+#: inc/class-woocommerce.php:856
+msgid "email"
+msgstr ""
+
+#: inc/class-customizer.php:35
+msgid "Emails"
+msgstr ""
+
+#: inc/class-customizer.php:148
+msgid "Enable calendar"
+msgstr ""
+
+#: inc/class-myticket-events.php:441
+msgid "Event Begins"
+msgstr ""
+
+#: inc/class-myticket-events.php:448
+msgid "Event Ends"
+msgstr ""
+
+#: inc/class-myticket-events.php:455
+msgid "Event Length"
+msgstr ""
+
+#: src/listing-04/block.php:89 src/listing-01/block.php:94
+msgid "Event Month"
+msgstr ""
+
+#: templates/ticket-general/index.php:202
+msgid "Event:"
+msgstr ""
+
+#: inc/class-woocommerce.php:347
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/listing-05/block-ajax.php:141 src/listing-02/block.php:164 
+#: src/listing-04/block-ajax.php:143 src/listing-06/block-ajax.php:45
+msgid "Get Ticket"
+msgstr ""
+
+#: src/listing-01/block.php:188
+msgid "Highest Price"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:245 
+#: inc/class-customizer-repeater-control.php:293
+msgid "http://fontawesome.io/icons/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kenzap/myticket-events-gutenberg-blocks"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kenzap.com/"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:239 
+#: inc/class-customizer-repeater-control.php:277
+msgid "Icon"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:263 
+#: inc/class-customizer-repeater-control.php:278
+msgid "Image"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:274
+msgid "Image type"
+msgstr ""
+
+#: src/listing-05/block.php:47 src/listing-03/block.php:27 
+#: src/listing-04/block.php:22
+msgid ""
+"Important! Please make sure that WooCommerce and CMB2 plugins are installed "
+"and activated."
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:129
+msgid "Input field"
+msgstr ""
+
+#: inc/class-plugins.php:55
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-plugins.php:54
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-plugins.php:56
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kenzap"
+msgstr ""
+
+#: src/listing-06/block-ajax.php:119
+msgid "Limited"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:308 
+#: inc/class-customizer-repeater-control.php:330
+msgid "Link"
+msgstr ""
+
+#: src/listing-04/block.php:47 src/listing-04/block.php:69 
+#: src/listing-01/block.php:53 src/listing-01/block.php:74
+msgid "Location"
+msgstr ""
+
+#: inc/class-myticket-events.php:484
+msgid "Location Address"
+msgstr ""
+
+#: inc/class-myticket-events.php:485
+msgid ""
+"Location address is used for visual representation. Map searches are only "
+"performed based on location coordinates that can be provided below."
+msgstr ""
+
+#: inc/class-myticket-events.php:491
+msgid "Location Coordinates"
+msgstr ""
+
+#: inc/class-myticket-events.php:492
+msgid ""
+"Location latitude and longitude separated by comma. Ex.: 124.34343, -23.3423."
+msgstr ""
+
+#: inc/class-myticket-events.php:477
+msgid "Location Title"
+msgstr ""
+
+#: inc/class-myticket-events.php:478
+msgid "Location title/Venue is used for visual representation only."
+msgstr ""
+
+#: src/listing-01/block.php:187
+msgid "Lowest Price"
+msgstr ""
+
+#: inc/class-customizer.php:188
+msgid "Max reservation time"
+msgstr ""
+
+#: inc/class-customizer.php:191
+msgid ""
+"Maximum time in minutes needed for successful checkout. Not booked "
+"reservations are canceled after this time."
+msgstr ""
+
+#: inc/class-customizer.php:17
+msgid "Mobile App"
+msgstr ""
+
+#: inc/class-customizer.php:8
+msgid "MyTicket"
+msgstr ""
+
+#: inc/class-customizer.php:108
+msgid "MyTicket checkout"
+msgstr ""
+
+#. Name of the plugin
+msgid "MyTicket Events"
+msgstr ""
+
+#: inc/class-myticket-events.php:433
+msgid "MyTicket Extra Details"
+msgstr ""
+
+#: inc/class-woocommerce.php:855
+msgid "name"
+msgstr ""
+
+#: src/listing-01/block-ajax.php:132 src/listing-01/block.php:308
+msgid "Next"
+msgstr ""
+
+#: inc/class-plugins.php:121
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: src/listing-05/block.php:138
+msgid "No available tickets"
+msgstr ""
+
+#: src/listing-06/block-ajax.php:139
+msgid "No records to display. Go to Products > Add New."
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:279
+msgid "None"
+msgstr ""
+
+#: src/listing-05/block.php:63 src/listing-06/block-ajax.php:20
+msgid "Not allowed to add more tickets"
+msgstr ""
+
+#: inc/class-woocommerce.php:698 inc/class-woocommerce.php:708 
+#: templates/ticket-status-general/index.php:36 
+#: templates/ticket-status-general/index.php:44 
+#: templates/ticket-status-general/index.php:52 
+#: templates/ticket-status-general/index.php:60 
+#: templates/ticket-status-general/index.php:68 
+#: templates/ticket-status-individual/index.php:36 
+#: templates/ticket-status-individual/index.php:44 
+#: templates/ticket-status-individual/index.php:52 
+#: templates/ticket-status-individual/index.php:60 
+#: templates/ticket-status-individual/index.php:68
+msgid "Not Valid"
+msgstr ""
+
+#: src/listing-05/block.php:95
+msgid "Note! You are selecting dancefloor tickets without seat reservation."
+msgstr ""
+
+#: src/listing-02/block.php:19 src/listing-03/block.php:25 
+#: src/listing-04/block.php:20 src/listing-01/block.php:29
+msgid ""
+"Note: Adjust listing settings from the right pane; Click Update to preview "
+"changes on your website frontend. To add events go to Products > Add New "
+"section and populate fields including MyTicket Extra Details box."
+msgstr ""
+
+#: src/listing-05/block.php:166
+msgid ""
+"Note: During admin mode you can cancel bookings by double clicking on the "
+"seat."
+msgstr ""
+
+#: src/listing-05/block.php:45
+msgid ""
+"Note: Image above is for representation purpose only. Click Update to "
+"preview changes on your website frontend. To create new layout please visit "
+"this page: https://kenzap.com/myticket/. Generate the layout and then paste "
+"it into Layout > Seat Code section on the right."
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:244 
+#: inc/class-customizer-repeater-control.php:292
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: src/listing-01/block.php:177
+msgid "of"
+msgstr ""
+
+#: src/listing-05/block.php:63 src/listing-06/block-ajax.php:20
+msgid "Oops. Some seats were already booked. Please try again!"
+msgstr ""
+
+#: src/listing-05/block.php:63 src/listing-03/block.php:56 
+#: src/listing-06/block-ajax.php:20
+msgid "Oops. Something went wrong. Please try again later."
+msgstr ""
+
+#: inc/class-customizer.php:177
+msgid ""
+"Open MyTicket app > Settings > Scroll down to find its unique ID number and "
+"provide it below. Specify only one ID per line. Ex.: E4RR5R6R."
+msgstr ""
+
+#: inc/class-woocommerce.php:523
+msgid "Or download each ticket individually"
+msgstr ""
+
+#: templates/ticket-general/index.php:61
+#, php-format
+msgid "Order Date: %s"
+msgstr ""
+
+#: templates/ticket-general/index.php:63
+#, php-format
+msgid "Order Number: %s"
+msgstr ""
+
+#: inc/class-myticket-events.php:499
+msgid "Override default woocommerce product permalink."
+msgstr ""
+
+#: inc/class-customizer.php:135
+msgid "Participant data"
+msgstr ""
+
+#: inc/class-customizer.php:68
+msgid "Participant PDF Ticket (New Order)"
+msgstr ""
+
+#: inc/class-customizer.php:94
+msgid "Participant PDF Ticket (Payment Received)"
+msgstr ""
+
+#: inc/class-customizer.php:81
+msgid "Participant PDF Ticket (Status Completed)"
+msgstr ""
+
+#: templates/ticket-general/index.php:65
+#, php-format
+msgid "Payment Method: %s"
+msgstr ""
+
+#: inc/class-myticket-events.php:115
+msgid "PDF"
+msgstr ""
+
+#: inc/class-myticket-events.php:121 inc/class-customizer.php:55
+msgid "PDF Ticket"
+msgstr ""
+
+#: src/listing-06/block-ajax.php:20
+msgid "per seat"
+msgstr ""
+
+#: templates/layouts/summary-table-default.php:17 src/listing-05/block.php:57
+msgid "per ticket"
+msgstr ""
+
+#: src/listing-05/block.php:85
+msgid "Pick Number of Passes"
+msgstr ""
+
+#: src/listing-05/block-ajax.php:3 src/listing-02/block.php:24 
+#: src/listing-03/block.php:47 src/listing-04/block-ajax.php:3 
+#: src/listing-01/block-ajax.php:3 src/listing-06/block-ajax.php:3
+msgid "Please activate WooCommerce plugin"
+msgstr ""
+
+#: inc/class-woocommerce.php:232
+msgid "Please enter required fields!"
+msgstr ""
+
+#: inc/class-woocommerce.php:232
+msgid "Please hit update cart button first"
+msgstr ""
+
+#: inc/class-myticket-events.php:97
+msgid ""
+"Please make sure <strong>../wp-content/uploads/tickets</strong> folder "
+"exists and has writing permissions. Required to create and store PDF tickets."
+msgstr ""
+
+#: inc/class-woocommerce.php:232
+msgid "Please pick up the date first!"
+msgstr ""
+
+#: src/listing-05/block.php:53
+msgid ""
+"Please provide at least one product ID under General > Product IDs input "
+"field."
+msgstr ""
+
+#: templates/email-individual/index.php:24
+msgid "Please use the QR-code below to enter the event."
+msgstr ""
+
+#: inc/class-plugins.php:119
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-plugins.php:122
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: src/listing-01/block.php:185
+msgid "Popularity"
+msgstr ""
+
+#: src/listing-01/block-ajax.php:126
+msgid "Prev"
+msgstr ""
+
+#: src/listing-01/block.php:307
+msgid "Previous"
+msgstr ""
+
+#: templates/layouts/summary-table-default.php:6 
+#: templates/layouts/summary-table-default.php:14 
+#: templates/ticket-general/index.php:86 templates/ticket-general/index.php:230
+msgid "Price"
+msgstr ""
+
+#: src/listing-01/block-ajax.php:45
+msgid "Price From"
+msgstr ""
+
+#: inc/class-customizer.php:161
+msgid "Private access"
+msgstr ""
+
+#: templates/ticket-general/index.php:82 templates/ticket-general/index.php:226
+msgid "Qty"
+msgstr ""
+
+#: src/listing-01/block.php:186
+msgid "Rating"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:311 
+#: inc/class-customizer-repeater-control.php:341
+msgid "Remove Icon"
+msgstr ""
+
+#: src/listing-04/block.php:39 src/listing-01/block.php:45
+msgid "Remove search text"
+msgstr ""
+
+#: inc/class-customizer.php:164
+msgid "Restrict access to apps with IDs listed below."
+msgstr ""
+
+#: src/listing-01/block.php:177
+msgid "Results"
+msgstr ""
+
+#: inc/class-plugins.php:118
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-woocommerce.php:255 templates/layouts/summary-table-default.php:5 
+#: templates/layouts/summary-table-default.php:13
+msgid "Row"
+msgstr ""
+
+#: inc/class-woocommerce.php:860
+msgid "row"
+msgstr ""
+
+#: templates/ticket-general/index.php:124 
+#: templates/ticket-general/index.php:249 src/listing-05/block.php:57 
+#: src/listing-06/block-ajax.php:20
+msgid "Row:"
+msgstr ""
+
+#: src/listing-01/block-ajax.php:18
+msgid "Sale"
+msgstr ""
+
+#: src/listing-04/block.php:38 src/listing-04/block.php:137 
+#: src/listing-01/block.php:44 src/listing-01/block.php:142
+msgid "Search"
+msgstr ""
+
+#: src/listing-04/block.php:37 src/listing-01/block.php:43
+msgid "Search Keyword"
+msgstr ""
+
+#: src/listing-01/block.php:176
+msgid "Search results for"
+msgstr ""
+
+#: inc/class-woocommerce.php:250
+msgid "Seat"
+msgstr ""
+
+#: inc/class-woocommerce.php:858
+msgid "seat"
+msgstr ""
+
+#: templates/ticket-general/index.php:123 
+#: templates/ticket-general/index.php:248
+msgid "Seat:"
+msgstr ""
+
+#: src/listing-06/block-ajax.php:119
+msgid "seats left!"
+msgstr ""
+
+#: inc/class-woocommerce.php:260
+msgid "Sector"
+msgstr ""
+
+#: inc/class-myticket-events.php:442 inc/class-myticket-events.php:449
+msgid "Select event date time and zone."
+msgstr ""
+
+#: src/listing-05/block.php:112 src/listing-05/block.php:182
+msgid "Select ticket type"
+msgstr ""
+
+#: src/listing-05/block.php:77 src/listing-05/block.php:195
+msgid "Selected"
+msgstr ""
+
+#: inc/class-customizer.php:45
+msgid "Set up checkout settings and views"
+msgstr ""
+
+#: inc/class-customizer.php:27
+msgid "Set up general rules for ticketing operations"
+msgstr ""
+
+#: inc/class-customizer.php:36
+msgid "Set up rules for Email triggering"
+msgstr ""
+
+#: inc/class-customizer.php:18
+msgid "Set up rules for MyTicket scanner app"
+msgstr ""
+
+#: src/listing-01/block.php:177
+msgid "Showing"
+msgstr ""
+
+#: src/listing-01/block.php:176
+msgid "Showing all records"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:288
+msgid "Social icons"
+msgstr ""
+
+#: src/listing-05/block-ajax.php:142 src/listing-05/block.php:194 
+#: src/listing-02/block.php:32 src/listing-02/block.php:165 
+#: src/listing-04/block-ajax.php:144 src/listing-01/block-ajax.php:55 
+#: src/listing-06/block-ajax.php:46
+msgid "Sold Out"
+msgstr ""
+
+#: inc/class-plugins.php:57
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-plugins.php:98
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:68
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:83
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/listing-01/block.php:180
+msgid "Sort By:"
+msgstr ""
+
+#: inc/class-woocommerce.php:505
+msgid "Thanks for purchasing"
+msgstr ""
+
+#: inc/class-plugins.php:73
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:120
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-plugins.php:93
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:88
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:78
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:63
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-plugins.php:58
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-myticket-events.php:36 
+#: templates/layouts/summary-table-default.php:4 
+#: templates/ticket-general/index.php:78 templates/ticket-general/index.php:222
+msgid "Ticket"
+msgstr ""
+
+#: inc/class-woocommerce.php:505
+msgid "ticket"
+msgstr ""
+
+#: templates/email-individual/index.php:19
+msgid "Ticket for:"
+msgstr ""
+
+#: templates/ticket-status-general/index.php:67 
+#: templates/ticket-status-individual/index.php:67
+msgid "Ticket has technical issues"
+msgstr ""
+
+#: templates/email-individual/index.php:23
+msgid "Ticket Holder: "
+msgstr ""
+
+#: templates/ticket-general/index.php:60 templates/ticket-general/index.php:199
+msgid "Ticket ID:"
+msgstr ""
+
+#: templates/ticket-status-general/index.php:51 
+#: templates/ticket-status-individual/index.php:51
+msgid "Ticket is cancelled"
+msgstr ""
+
+#: templates/ticket-status-general/index.php:59 
+#: templates/ticket-status-individual/index.php:59
+msgid "Ticket is refunded"
+msgstr ""
+
+#: templates/ticket-status-general/index.php:35 
+#: templates/ticket-status-individual/index.php:35
+msgid "Ticket pending payment"
+msgstr ""
+
+#: templates/ticket-status-general/index.php:43 
+#: templates/ticket-status-individual/index.php:43
+msgid "Ticket pending payment or on hold"
+msgstr ""
+
+#: inc/class-customizer.php:26
+msgid "Ticketing"
+msgstr ""
+
+#: src/listing-05/block.php:57
+msgid "tickets left"
+msgstr ""
+
+#: inc/class-woocommerce.php:239 src/listing-01/block-ajax.php:39
+msgid "Time"
+msgstr ""
+
+#: inc/class-woocommerce.php:851
+msgid "time"
+msgstr ""
+
+#: templates/ticket-general/index.php:119 
+#: templates/ticket-general/index.php:206 
+#: templates/ticket-general/index.php:244
+msgid "Time:"
+msgstr ""
+
+#: templates/email-individual/index.php:22
+msgid "Time: "
+msgstr ""
+
+#: inc/class-myticket-events.php:462
+msgid "Undefined"
+msgstr ""
+
+#: inc/class-woocommerce.php:647 templates/ticket-status-general/index.php:28 
+#: templates/ticket-status-individual/index.php:28
+msgid "Unvalidate"
+msgstr ""
+
+#: inc/class-customizer-repeater-control.php:266
+msgid "Upload Image"
+msgstr ""
+
+#: inc/class-customizer.php:124
+msgid ""
+"Upon cart and checkout combine events into a single record if quantity is "
+"more than 1 ticket. By enabling this option you will also have only one "
+"invoice per order with no option to split qr-code generated invoices for "
+"each attendee."
+msgstr ""
+
+#: inc/class-customizer.php:138
+msgid ""
+"Upon cart page force users to enter ticket holder email and full name to use "
+"it for QR-code scanning."
+msgstr ""
+
+#: inc/class-woocommerce.php:633 templates/ticket-status-general/index.php:19 
+#: templates/ticket-status-individual/index.php:19
+msgid "Validate"
+msgstr ""
+
+#: inc/class-woocommerce.php:338
+#, php-format
+msgid "Validated <span class=\"count\">(%s)</span>"
+msgid_plural "Validated <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-woocommerce.php:243 src/listing-01/block-ajax.php:31
+msgid "Venue"
+msgstr ""
+
+#: inc/class-woocommerce.php:853
+msgid "venue"
+msgstr ""
+
+#: templates/email-individual/index.php:20 
+#: templates/ticket-general/index.php:120 
+#: templates/ticket-general/index.php:204 
+#: templates/ticket-general/index.php:245
+msgid "Venue:"
+msgstr ""
+
+#: inc/class-myticket-events.php:46 inc/class-myticket-events.php:129
+msgid "View"
+msgstr ""
+
+#: src/listing-05/block-ajax.php:143 src/listing-02/block.php:33 
+#: src/listing-02/block.php:166 src/listing-04/block-ajax.php:145 
+#: src/listing-01/block-ajax.php:56 src/listing-06/block-ajax.php:47
+msgid "View More"
+msgstr ""
+
+#: src/listing-05/block.php:57
+msgid "When switching to other date current reservations are removed. Confirm?"
+msgstr ""
+
+#: inc/class-woocommerce.php:507
+msgid "You can directly download ticket by clicking"
+msgstr ""
+
+#: src/listing-05/block.php:57 src/listing-06/block-ajax.php:20
+msgid "Zone"
+msgstr ""
+
+#: inc/class-woocommerce.php:859
+msgid "zone"
+msgstr ""
+
+#: inc/class-woocommerce.php:632 templates/ticket-status-general/index.php:18 
+#: templates/ticket-status-general/index.php:27 
+#: templates/ticket-status-individual/index.php:18 
+#: templates/ticket-status-individual/index.php:27
+msgid "• current status"
+msgstr ""
+
+#: inc/class-woocommerce.php:707
+msgid "• not valid, wrong date (expired)"
+msgstr ""
+
+#: inc/class-woocommerce.php:697
+msgid "• not valid, wrong date (too early)"
+msgstr ""
